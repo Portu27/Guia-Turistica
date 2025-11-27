@@ -1,0 +1,5 @@
+  .feature-icon {
+    width: 1rem;
+    height: 1rem;
+    border-radius: .75rem;
+  }
